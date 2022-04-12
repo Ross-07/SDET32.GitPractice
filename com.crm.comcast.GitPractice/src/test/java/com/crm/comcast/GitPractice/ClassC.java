@@ -9,6 +9,6 @@ public class ClassC
 	{
 		System.out.println("made new change and pushing to github");
 		System.out.println("check if you have made change or not");
-		System.out.println("hi sitesh");
+		System.out.println("hi sitesh how are you");
 	}
 }
